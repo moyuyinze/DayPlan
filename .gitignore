@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# 虚拟环境
+venv/
+.venv/
+
+# 数据库文件（本地数据不入库）
+*.db
+
+# Claude Code
+.claude/
+
+# 系统文件
+Thumbs.db
+Desktop.ini
